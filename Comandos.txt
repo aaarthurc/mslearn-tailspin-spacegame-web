@@ -1,0 +1,2 @@
+##Na janela do terminal, para executar o aplicativo, execute o comando dotnet run:
+dotnet run --configuration Release --no-build --project Tailspin.SpaceGame.Web
