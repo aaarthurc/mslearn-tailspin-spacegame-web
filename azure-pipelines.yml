@@ -1,17 +1,3 @@
-trigger:
-<<<<<<< HEAD
-- main
-
-pool:
-    vmImage: ubuntu-latest
-
-variables:
-    buildConfiguration: 'Release'
-
-steps:
-    - script: dotnet build --configuration $(buildCondiguration)
-      displayName: 'dotnet build $(buildConfiguration)'
-=======
 - '*'
 
 pool:
