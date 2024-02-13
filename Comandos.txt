@@ -1,2 +1,5 @@
+##No Visual Studio Code, navegue até a janela do terminal e execute o comando dotnet build para compilar o aplicativo:
+dotnet build --configuration Release
+
 ##Na janela do terminal, para executar o aplicativo, execute o comando dotnet run:
 dotnet run --configuration Release --no-build --project Tailspin.SpaceGame.Web
